@@ -1,7 +1,9 @@
 # TestDemo
 
 # 开发日志
+
 第5天
+
 想模仿《蔚蓝》做个测试demo，目前把冲刺、攀爬都完成了，查了一些资料，发现对手感也要有要求，如果只是单纯用GetButton与GetButtonDown并不能很好的模拟大跳小跳，甚至还会导致按键失灵的效果
 观看完这两个后有了思路https://www.youtube.com/watch?v=hG9SzQxaCm8和https://www.youtube.com/watch?v=7KiK0Aqtmzc
 前者还介绍了一些，如果你下落速度够慢的话，就能让我们人物更加自然，显然我们并不用去模拟真实，但是这是个好想法
